@@ -64,7 +64,7 @@
     "express": "4.18.2",
     "fs-extra": "11.2.0",
     "http-proxy-agent": "7.0.2",
-    "https-proxy-agent": "7.0.2",
+    "https-proxy-agent": "7.0.6",
     "jsonpath-plus": "10.3.0",
     "mailparser": "3.6.7",
     "mountebank-formatters": "0.0.2",
